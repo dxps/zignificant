@@ -14,8 +14,8 @@ export default function DefaultLayout({ children }: { children: React.ReactNode 
           href="https://heroui.com"
           title="heroui.com homepage"
         >
-          <span className="text-default-500 text-xs pt-0.5">&copy;</span>
-          <p className="text-default-500 text-xs">HeroUI</p>
+          <span className="text-default-500 text-xs pt-0.5">&copy; 2025, </span>
+          <p className="text-default-500 text-xs">Zignificant</p>
         </Link>
       </footer>
     </div>
